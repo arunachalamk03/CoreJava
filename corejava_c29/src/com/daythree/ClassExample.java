@@ -16,6 +16,9 @@ public class ClassExample {
 		
 		obj.Hi();
 		obj.Hello();
+		
+		Print PrintObj = new Print();
+		PrintObj.printText();
 	}
 
 }
