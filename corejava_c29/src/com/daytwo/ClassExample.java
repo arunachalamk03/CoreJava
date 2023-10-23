@@ -1,4 +1,4 @@
-package com.daythree;
+package com.daytwo;
 
 public class ClassExample {
 	
